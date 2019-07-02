@@ -1,0 +1,2 @@
+model层也叫domain层，里面只存放实体类
+这些类的要求是：只可以存在各种属性，它们的getter setter方法，以及可以重写toString
